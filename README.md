@@ -45,8 +45,6 @@ The model leverages Convolutional Neural Networks (CNNs) for effective image pro
 - Pooling layers
 - Fully connected layers
 
-## Workflow Diagram
-![Workflow Diagram](path/to/workflow_diagram.png)
 
 ## Troubleshooting Tips
 - Ensure all dependencies are installed correctly.
